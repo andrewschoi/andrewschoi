@@ -4,12 +4,6 @@
 
 I'm a software developer, passionate about coding and creating innovative solutions. I'm constantly learning new technologies and experimenting with them to develop cool projects.
 
-## 📈 My GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewschoi&show_icons=true&theme=tokyonight)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewschoi&layout=compact&theme=tokyonight)](https://github.com/andrewschoi/github-readme-stats)
-
 ## 🔧 Technologies & Tools:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
