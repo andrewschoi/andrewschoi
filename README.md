@@ -2,18 +2,8 @@
 
 ## 🌱 About Me:
 
-I'm a software developer, passionate about coding and creating innovative solutions. I'm constantly learning new technologies and experimenting with them to develop cool projects.
+I am particularly interested in the intersection of software and accessibility and how both relates to innovative/commerical value. Though, I also enjoy working on novel social platforms that target college students.
 
-## 🔧 Technologies & Tools:
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## 📫 Connect with me:
 
