@@ -2,7 +2,7 @@
 
 ## 🌱 About Me:
 
-I am particularly interested in the intersection of software and accessibility and how both relate to innovative/commerical value. Though, I also enjoy working on novel social platforms that target college students.
+I am particularly interested in the intersection of software and accessibility and how both relate to innovative/commerical value. Though, I also enjoy solving algorithmic problems, or working on novel social platforms for college students.
 
 
 ## 📫 Connect with me:
