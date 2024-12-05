@@ -2,7 +2,7 @@
 
 ## 🌱 About Me:
 
-I am particularly interested in the intersection of software and accessibility and how both relate to innovative/commerical value. Though, I also enjoy solving algorithmic problems, or working on novel social platforms for college students.
+I studied CS at Cornell. My academic background is in low-level systems | building systems with strong guarantees. Outside of school, I enjoy learning about new technologies and keeping with the latest trends regarding startups.
 
 
 ## 📫 Connect with me:
